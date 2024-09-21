@@ -14,7 +14,7 @@
 **I’m currently learning:**
 - Python
 - Java
-- Arduino C
+- C ++
 
 <!---
 an-adventure-awaits/an-adventure-awaits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
