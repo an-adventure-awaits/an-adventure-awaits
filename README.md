@@ -1,8 +1,8 @@
 **About Me:**
 
 * I’m @an-adventure-awaits
-* I am working towards an associates in computer science.
-* I then plan on transfereing to a four year university to get my bachlers in computer science.
+* I am working towards an bachelors in computer science.
+
 
 **Projects:**
   - I am currently working on a project with the NASA Nebraska Space Grant.
@@ -14,7 +14,11 @@
 **I’m currently learning:**
 - Python
 - Java
-- C ++
+- C++
+- C
+- HTML
+- SQL
+  
 
 <!---
 an-adventure-awaits/an-adventure-awaits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
