@@ -15,7 +15,7 @@
 - Python
 - Java
 - C++
-- C
+- Arduino C
 - HTML
 - SQL
   
